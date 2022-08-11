@@ -1,0 +1,4 @@
+Done changes in the following files:
+
+ - app/code/Magento/Directory/Model/Currency.php
+ - app/code/Magento/Checkout/view/frontend/templates/cart/shipping.phtml
